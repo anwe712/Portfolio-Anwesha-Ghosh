@@ -16,7 +16,7 @@ body {
     background-color: black;
     color: #fff;
 }
-
+/* header css  */
 header {
     display: flex;
     align-items: center;
@@ -114,6 +114,7 @@ main {
 
 }
 
+/* about section css  */
 .my-story {
     display: grid;
     place-items: center;
